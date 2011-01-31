@@ -4,7 +4,7 @@
 // @description	  Extends the YouTube comment section to include a page goto form. I cannot imagine a single person beside myself ever needing this.
 // @author        Stephen Swift
 // @homepage      https://github.com/rap/YouTube-Comment-/raw/master/yt_comment_plus.js
-// @include       http://*youtube.com*
+// @include       *youtube.com*
 // ==/UserScript==
 
 var $;
